@@ -130,8 +130,9 @@ Status will be updated as each implementation phase is completed and validated.
 ## Documentation
 
 - [Engagement Charter](https://docs.google.com/document/d/1u2nWKga73ao-muKXI1qE4YQ5S83IpzOhJL9bC-k0Vcw/edit?usp=sharing)
-- [Project Documentation](docs/)
-- [Network Diagrams](diagrams/)
+- [Identity and Access Register](https://docs.google.com/spreadsheets/d/1py0XMVqFYBPXGiFs0JGYm8rhUAfgCWek/edit?usp=sharing&ouid=109457502024142374353&rtpof=true&sd=true)
+- [Network Architecture and Addressing plan](docs/02-network-architecture.md)
+- [Active directory and Group policy specification](docs/03-ad-and-group-policy.md)
 - [Runbooks](runbooks/)
 - [Simulated Support Tickets](tickets/)
 - [Troubleshooting Guides](troubleshooting/)
