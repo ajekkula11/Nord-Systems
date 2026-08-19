@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | System | NS-DC01 |
-| Project | Nord Systems Virtual IT Lab |
+| Project | Nord Systems Infrastructure Deployment & Service Desk Operations |
 | Role | Domain controller, DNS server, DHCP server, backup server |
 | Operating system | Windows Server 2022 Standard Evaluation, Desktop Experience |
 | Domain | `corp.nordsystems.com` |
