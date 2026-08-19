@@ -133,6 +133,17 @@ All approved OUs are protected from accidental deletion.
 
 The group structure implements Accounts to Global groups to Domain Local groups to Permissions. Resource ACLs will be applied when NS-FS01 is built.
 
+## Domain Security Policies
+
+- Configured the Default Domain Policy with a 14-character minimum password, complexity, 24-password history, 365-day maximum age, and 1-day minimum age.
+- Configured account lockout after 10 invalid attempts, with a 15-minute duration and observation window.
+- Created and applied NS_Baseline_DomainControllers.
+- Enabled Windows Defender Firewall on all profiles with inbound traffic blocked by default.
+- Disabled the SMBv1 client driver.
+- Restricted interactive logon for service accounts.
+- Enabled success and failure auditing for authentication, logon, lockout, user-account management, and security-group management.
+- Verified all three custom GPOs using gpresult and validated effective audit settings using auditpol.
+
 ## Snapshots
 
 | VM | Snapshot | Purpose |
