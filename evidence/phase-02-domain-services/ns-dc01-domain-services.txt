@@ -1,0 +1,23 @@
+**********************
+Windows PowerShell transcript start
+Start time: 20260818222356
+Username: NORDSYSTEMS\Administrator
+RunAs User: NORDSYSTEMS\Administrator
+Configuration Name: 
+Machine: NS-DC01 (Microsoft Windows NT 10.0.20348.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe
+Process ID: 4264
+PSVersion: 5.1.20348.558
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.20348.558
+BuildVersion: 10.0.20348.558
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\evidence\ns-dc01-domain-services.txt
+
+DNSRoot              NetBIOSName        DomainMode
+-------              -----------        ----------
+corp.nordsystems.com NORDSYSTEMS Windows2016Domain
